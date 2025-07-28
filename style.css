@@ -1,0 +1,88 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to bottom right, #ffe6f0, #ffccdd);
+}
+
+.container {
+  text-align: center;
+  padding: 50px;
+  max-width: 700px;
+  margin: auto;
+}
+
+h1 {
+  color: #ff69b4;
+  font-size: 2.8rem;
+}
+
+.intro {
+  font-size: 1.2rem;
+  margin: 20px 0 40px;
+  color: #880e4f;
+}
+
+.btn {
+  padding: 12px 25px;
+  background-color: #ff99cc;
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+  font-weight: bold;
+  transition: 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #ff66a3;
+}
+
+.kisah-container {
+  max-width: 700px;
+  margin: auto;
+  padding: 40px 20px;
+  background: #fff0f5;
+  border-radius: 15px;
+  margin-top: 40px;
+}
+
+.kisah-container h2 {
+  color: #d63384;
+}
+
+.tanggal {
+  font-style: italic;
+  color: #999;
+}
+
+.curhat {
+  font-size: 1.1rem;
+  margin: 20px 0;
+  color: #333;
+}
+
+.kisah-container img {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 10px;
+  margin: 20px 0;
+}
+
+.navigasi-kisah {
+  margin-top: 30px;
+}
+
+.navigasi-kisah a {
+  margin: 0 10px;
+  padding: 10px 20px;
+  background-color: #ff99cc;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: 0.3s ease;
+}
+
+.navigasi-kisah a:hover {
+  background-color: #ff66a3;
+}
